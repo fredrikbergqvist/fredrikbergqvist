@@ -3,7 +3,7 @@
 I'm a web developer with over 22 years of experience. 
 I used to do .NET but these days it's all about frontend, React and Next.js 😁
 
-Occationaly I write blog posts at my personal homepage: (www.bergqvist.it)[https://www.bergqvist.it] and if you want to reach me I'm on twitter as (@f_bergqvist)[https://twitter.com/f_bergqvist]
+Occationaly I write blog posts at my personal homepage: [https://www.bergqvist.it](www.bergqvist.it) and if you want to reach me I'm on twitter as [https://twitter.com/f_bergqvist](@f_bergqvist)
 
 
 
