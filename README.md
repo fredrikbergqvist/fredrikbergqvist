@@ -1,4 +1,4 @@
-### Hi there, I'm Fredrik 👋
+### 👋 Hi there, I'm Fredrik
 
 I'm a web developer with over 22 years of experience. 
 I used to do .NET but these days it's all about frontend, React and Next.js 😁
