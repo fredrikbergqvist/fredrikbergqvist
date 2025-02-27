@@ -1,7 +1,7 @@
 ### 👋 Hi there, I'm Fredrik
 
 I'm a web developer with more than 25 years of experience. 
-I used to do .NET but these days it's all about frontend, React and Next.js 😁
+I used to do .NET but these days it's all about frontend, Go, Web components and Next.js 😁
 
 Occationaly I write blog posts at my personal homepage: [www.bergqvist.it](https://www.bergqvist.it) and if you want to reach me I'm on Bluesky as [fbergqvist.bsky.social](https://bsky.app/profile/fbergqvist.bsky.social)
 
